@@ -1,0 +1,5 @@
+{
+  "name": "Copy of RUTH PORAT CORS COCKBLOCKER",
+  "description": "This application generates a unique movie script and storyboard assets. It combines a pre-defined story seed with user-provided text to create a new episode, which can be downloaded as a zip file with script, images, and audio.",
+  "requestFramePermissions": []
+}
